@@ -1,0 +1,6 @@
+2022-01-05 16:11:13 TRACE   TestForLogger - the built-in TRACE level
+2022-01-05 16:11:13 DEBUG   TestForLogger - the built-in DEBUG level
+2022-01-05 16:11:13 INFO    TestForLogger - the built-in INFO level
+2022-01-05 16:11:13 WARN    TestForLogger - the built-in WARN level
+2022-01-05 16:11:13 ERROR   TestForLogger - the built-in ERROR level
+2022-01-05 16:11:13 FATAL   TestForLogger - the built-in FATAL level
